@@ -114,7 +114,7 @@
 		
 		<section class="Main">
 			<div class="grid">
-				<div class="containerSquizzz1" data-aos="zoom-out-left" data-aos-easing="ease-in-sine" data-aos-delay="900">
+				<div class="containerSquizzz1">
 					<div class="containerImg" >
 						 <img src="img/2022-11-28 12_14_32-.png" alt="">
 					</div>
@@ -123,7 +123,7 @@
 					<div class="rightText1">
 						<div class="titleSquizzz1">Trapstar</div>
 						<div class="containerDescribe1">
-							<span class="langageSquizzz1" data-aos="zoom-out-right" data-aos-delay="700">E-shop website code in PHP POO</span>
+							<span class="langageSquizzz1" data-aos="zoom-out-right" data-aos-delay="700">E-shop website code in PHP OOP</span>
 							<a class="clickHere" href="" data-aos="fade-left" data-aos-delay="900">click here</a>
 						</div>
 					</div>
